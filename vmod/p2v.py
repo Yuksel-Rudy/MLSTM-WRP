@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 from tensorflow.keras.optimizers import Adam
 from scipy.stats import linregress
-import get_psd
+from vmod import get_psd
 from sklearn.preprocessing import MinMaxScaler
 import joblib
 

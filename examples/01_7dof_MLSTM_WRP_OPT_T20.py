@@ -18,7 +18,7 @@ In this example:
 """
 
 TEST_NUM = 1
-DATA_INPUT_FILE = r"./data/test_runs/S12_merged_10Hz_FS.csv"
+DATA_INPUT_FILE = r"../data/test_runs/S12_merged_10Hz_FS.csv"
 TIME_HORIZON = 20
 N_TRIALS = 250
 
